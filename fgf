@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GANDULAS CBF </title>
+   <link rel="stylesheet" href="style.css">
+   
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+    <nav>
+        <a href="#s1">HOME</a>
+        <a href="#s2">CBF</a>
+        <a href="#s3">FESP</a>
+        <a href="#s4">FERJ</a>
+        <a href="#s5">Contato</a>
+    </nav>
+<section id="s1" class="cards"></section>
+<h1>Serviço de Gandulas para Eventos Esportivos</h1>
+<img src="gandula 1.webp" alt="center">
+
+<div class="left"></div>
+  <h2>GANDULAS</h2>
+  <p>A Confederação Brasileira de Futebol (CBF) está com inscrições abertas para gandulas.
+Os selecionados atuarão em partidas oficiais, auxiliando no bom andamento dos jogos.
+É necessário ter responsabilidade, atenção e disponibilidade nos dias de evento.
+A função é fundamental para garantir ritmo e organização das partidas.
+Interessados devem acompanhar os canais oficiais da CBF para mais informações.</p>
+
+
+<section id="s2" class="cards"></section>
+<h2>MAIOR CAMPEAO DO MUNDO</h2>
+<img src="cbf2.jpg" alt=""
+ <p>CBF convoca gandulas para atuar em partidas oficiais do futebol brasileiro.
+A função é essencial para garantir dinamismo e organização durante os jogos.
+Buscamos pessoas responsáveis, atentas e comprometidas com o esporte.
+Os selecionados participarão de eventos de grande visibilidade nacional.
+Fique atento aos canais oficiais da CBF para inscrições e orientações.</p>
+
+
+
+
+<section id="s3" class="cards"></section>
+<h2></h2>
+<img src="FPF.jpg"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M4ieOC9uqpo?si=tOyf7zG08Sn3TfPU&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p></p>
+
+
+
+<section id="s4" class="cards"></section>
+<h2></h2>
+<img src="FERJ !.webp"
+<p></p>
+
+<section id="s5" class="contact-form"></section>
+<form>
+            <h2>Contato</h2>
+
+            <label for="nome">Nome</label>
+            <input type="text" id="nome" placeholder="Digite seu nome" required>
+
+            <label for="mensagem">Mensagem</label>
+            <textarea id="mensagem" placeholder="Digite sua mensagem" required></textarea>
+
+            <button type="submit">Enviar</button>
+        </form>
+
+<footer>
+    <a href="https://facebook.com" target="_blank" aria-label="Facebook">
+        <i class="fa-brands fa-facebook"></i>
+    </a>
+    <a href="https://instagram.com" target="_blank" aria-label="Instagram">
+        <i class="fa-brands fa-instagram"></i>
+    </a>
+    <a href="https://linkedin.com" target="_blank" aria-label="LinkedIn">
+        <i class="fa-brands fa-linkedin"></i>
+    </a>
+    
+</footer>
+
+
+</head>
+<body>
+    
+</body>
+</html>
